@@ -1,17 +1,27 @@
-Photo credits for charleston-trip planner (galleries)
+Photo credits for charleston-trip planner (venue-specific galleries)
 
-Wikimedia Commons (free / public domain / CC as listed on Commons):
-- chs-cypress* — Cypress Gardens, Moncks Corner SC
-- chs-angel* — Angel Oak, Charleston
-- chs-folly* — Folly Beach / Pier
-- chs-rainbow* — Rainbow Row, Charleston
-- chs-pineapple* — Waterfront Park / Pineapple Fountain
-- Also: cypress-gardens, angel-oak, folly-pier, rainbow-row-chs, pineapple-fountain
+Crowfield Golf Club — GolfPass course gallery (crowfield1–5)
+Wescott Plantation Golf Club — Wikimedia Commons + official wescottgolf.com + GolfPass (wescott*)
+The Hidden House — official site showit CDN (hh*)
+Sorelle Mercato — official sorellecharleston.com / getbento (sorelle*)
+City Lights Eastside — official s4shops / store media (citylights*)
+Cane Pazzo — official canepazzorestaurant.com (canepazzo*)
+The Boathouse at Breach Inlet — official boathouserestaurants.com / spotapps (boathouse*)
+Jackrabbit Filly — official jackrabbitfilly.com squarespace (jackrabbit*)
+Leon’s Oyster Shop — official leonsoystershop.com (leons*)
+Bowens Island Restaurant — official bowensisland.com / spotapps (bowens*)
+MOMO Riverfront Park — official momocharleston.com / spotapps (momo*)
+Boone Hall Pumpkin Patch — official boonehallplantation.com (boone*)
+Cypress Gardens — Wikimedia Commons (chs-cypress*) + official berkeleycountysc.gov (cypress-off*)
+Angel Oak — Wikimedia Commons (chs-angel*)
+Folly Beach Pier — Wikimedia Commons (chs-folly*, folly-pier)
+Pitt Street Bridge — Wikimedia Commons (pitt1) + Flickr CC via Openverse (pitt3–8)
+Morris Island / lighthouse — Wikimedia Commons (morris*, morris-lh4)
+Shem Creek — Wikimedia Commons (shem*)
+Arthur Ravenel Jr. Bridge — Wikimedia Commons (ravenel*)
+Charleston City Market — Wikimedia Commons (market-real*)
+Riverfront Park (N. Charleston) — Wikimedia Commons (riverfront*)
+Waterfront Park / Pineapple Fountain / Rainbow Row — Wikimedia Commons (chs-pineapple*, pineapple-fountain, chs-rainbow*)
 
-Unsplash License (https://unsplash.com/license):
-- stay*, golf*, coffee*, wine*, pasta*, dump*, chicken*, sea*, marsh*, sunset*,
-  beach*, pump*, oak*, bridge*, board*, market*, amb*, gelato_b, rooftop-sunset,
-  pool-condo, and other mood shots used in place galleries
-
-Do not scrape Airbnb private listing photos. Restaurant food photos are generic
-Unsplash mood images, not proprietary menu photos.
+See CREDITS_VENUES.txt for download URLs used.
+Do not scrape Airbnb private listing photos. Stay/condo section is intentionally omitted from the page.
