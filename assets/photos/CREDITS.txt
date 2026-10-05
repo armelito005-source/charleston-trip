@@ -1,15 +1,17 @@
-Photo credits for charleston-trip planner
+Photo credits for charleston-trip planner (galleries)
 
 Wikimedia Commons (free / public domain / CC as listed on Commons):
-- cypress-gardens.* — Moncks Corner - Cypress Gardens 06.jpg
-- angel-oak.* — Angel Oak Tree, November 2012.jpg
-- folly-pier.* — Folly-beach-pier-south-sc1.jpg
-- rainbow-row-chs.* — Rainbow Row from northern end.jpg
-- pineapple-fountain.* — Charleston-Waterfront-Park-pineapple-fountain-back.jpg
+- chs-cypress* — Cypress Gardens, Moncks Corner SC
+- chs-angel* — Angel Oak, Charleston
+- chs-folly* — Folly Beach / Pier
+- chs-rainbow* — Rainbow Row, Charleston
+- chs-pineapple* — Waterfront Park / Pineapple Fountain
+- Also: cypress-gardens, angel-oak, folly-pier, rainbow-row-chs, pineapple-fountain
 
 Unsplash License (https://unsplash.com/license):
-- golf-course-2, coffee-latte, wine-bar, pasta-italian, dumplings, fried-chicken,
-  seafood-platter, pumpkin-patch, shark-tooth-beach, boardwalk, bridge-dusk,
-  night-market, river-park, pool-condo, marsh-grass, rooftop-sunset
+- stay*, golf*, coffee*, wine*, pasta*, dump*, chicken*, sea*, marsh*, sunset*,
+  beach*, pump*, oak*, bridge*, board*, market*, amb*, gelato_b, rooftop-sunset,
+  pool-condo, and other mood shots used in place galleries
 
-Do not scrape Airbnb private listing photos. Restaurant food photos here are generic Unsplash mood images, not proprietary menu photos.
+Do not scrape Airbnb private listing photos. Restaurant food photos are generic
+Unsplash mood images, not proprietary menu photos.
