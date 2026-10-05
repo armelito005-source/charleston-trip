@@ -18,6 +18,11 @@
 }
 *,*::before,*::after{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+/* Scroll unlock - never trap the page */
+html{height:auto;min-height:100%;overflow-x:clip;overflow-y:auto;-webkit-overflow-scrolling:touch}
+html,body{overscroll-behavior-y:auto;touch-action:pan-y pinch-zoom}
+body{height:auto!important;min-height:100%;max-height:none;overflow-x:clip;overflow-y:visible}
+
 body{margin:0;font-family:var(--font-body);font-size:var(--fs-base);line-height:1.55;color:var(--ink);
   background:
     radial-gradient(1200px 600px at 10% -10%, rgba(212,160,84,.18), transparent 55%),
@@ -25,7 +30,7 @@ body{margin:0;font-family:var(--font-body);font-size:var(--fs-base);line-height:
     radial-gradient(800px 480px at 50% 100%, rgba(122,143,106,.12), transparent 55%),
     linear-gradient(180deg, #fbf7f0 0%, #f7efe3 38%, #f3e6d4 72%, #faf6ef 100%);
   -webkit-font-smoothing:antialiased;padding-bottom:calc(env(safe-area-inset-bottom) + var(--s8));
-  position:relative;isolation:isolate}
+  position:relative}
 img{max-width:100%;display:block}
 button{font:inherit;color:inherit}
 a{color:var(--sea-strong)}
@@ -73,7 +78,7 @@ section{padding:var(--s8) 0 var(--s4)}
 
 .card-media{position:relative;aspect-ratio:16/10;background:var(--sand-2);overflow:hidden}
 .gal{display:flex;width:100%;height:100%;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;
-  touch-action:pan-x pan-y;scrollbar-width:none;overscroll-behavior-x:contain}
+  touch-action:pan-x;scrollbar-width:none;overscroll-behavior-x:contain;overscroll-behavior-y:auto}
 .gal::-webkit-scrollbar{display:none}
 .slide{flex:0 0 100%;width:100%;height:100%;scroll-snap-align:start;scroll-snap-stop:always;position:relative;overflow:hidden;
   background:linear-gradient(100deg,var(--sand-2) 30%,#f4ede2 50%,var(--sand-2) 70%);background-size:300% 100%}
@@ -162,7 +167,7 @@ footer .credits{margin-top:var(--s6);font-size:var(--fs-xs);line-height:1.6;max-
 
 
 /* ===== Fall atmosphere ===== */
-.fall-sky{position:fixed;inset:0;pointer-events:none;z-index:0;overflow:hidden}
+.fall-sky{position:fixed;inset:0;width:100%;height:100%;pointer-events:none!important;z-index:-1;overflow:hidden;contain:strict}
 .fall-sky .leaf{
   position:absolute;top:-10vh;width:18px;height:18px;opacity:.42;
   will-change:transform; animation:fall-drift linear infinite;
@@ -186,6 +191,7 @@ footer .credits{margin-top:var(--s6);font-size:var(--fs-xs);line-height:1.6;max-
 }
 
 .hero,.chips-wrap,main,footer{position:relative;z-index:1}
+.fall-sky,.fall-sky *{pointer-events:none!important}
 .chips-wrap{z-index:40}
 
 .hero-media::after{background:
