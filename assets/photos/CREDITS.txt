@@ -21,7 +21,8 @@ Shem Creek — Wikimedia Commons (shem*)
 Arthur Ravenel Jr. Bridge — Wikimedia Commons (ravenel*)
 Charleston City Market — Wikimedia Commons (market-real*)
 Riverfront Park (N. Charleston) — Wikimedia Commons (riverfront*)
-Waterfront Park / Pineapple Fountain / Rainbow Row — Wikimedia Commons (chs-pineapple*, pineapple-fountain, chs-rainbow*)
+Waterfront Park / Pineapple Fountain (night, lights on) — Flickr CC BY-NC-ND via Openverse (pineapple-night1–6)
+Rainbow Row — Wikimedia Commons (chs-rainbow*)
 
 See CREDITS_VENUES.txt for download URLs used.
 Do not scrape Airbnb private listing photos. Stay/condo section is intentionally omitted from the page.

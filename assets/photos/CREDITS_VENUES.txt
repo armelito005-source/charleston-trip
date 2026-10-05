@@ -67,3 +67,10 @@ morris1: Wikimedia Commons / Morris Island | https://upload.wikimedia.org/wikipe
 pitt2: Wikimedia (File:Pitt street bridge in old village.jpg) | https://upload.wikimedia.org/wikipedia/commons/1/1f/Pitt_street_bridge_in_old_village.jpg?utm_source
 morris2: Wikimedia (File:Charleston South Carolina-Morris Island Lighthouse from Folly Island-20060428172849.jpg) | https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Charleston_South_Carolina-Morris_Island_Lig
 morris3: Wikimedia (File:Charleston Harbor, South Carolina. View from parapet (east angle) of Fort Sumter facing Morris Island LOC cwpb.03084.jpg) | https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Charleston_Harbor%2C_South_Carolina._View_f
+
+pineapple-night1: Flickr / imabug — Pineapple fountain (CC BY-NC-ND 2.0) | https://www.flickr.com/photos/imabug/5253645797/ | https://live.staticflickr.com/5001/5253645797_316459360b_b.jpg
+pineapple-night2: Flickr / imabug — Pineapple fountain (CC BY-NC-ND 2.0) | https://www.flickr.com/photos/imabug/5253645173/ | https://live.staticflickr.com/5162/5253645173_d0b2038594_b.jpg
+pineapple-night3: Flickr / imabug — Pineapple fountain (CC BY-NC-ND 2.0) | https://www.flickr.com/photos/imabug/5253644633/ | https://live.staticflickr.com/5043/5253644633_12591276cc_b.jpg
+pineapple-night4: Flickr / imabug — Pineapple fountain (CC BY-NC-ND 2.0) | https://www.flickr.com/photos/imabug/5254250160/ | https://live.staticflickr.com/5125/5254250160_d0ef5e5671_b.jpg
+pineapple-night5: Flickr / alli ♥ — the pineapple fountain! (CC BY-NC-ND 2.0) | https://www.flickr.com/photos/allialli/3813781388/ | https://live.staticflickr.com/3577/3813781388_c7eef5e207_b.jpg
+pineapple-night6: Flickr / jpellgen — Charleston's Pineapple Fountain (CC BY-NC-ND 2.0) | https://www.flickr.com/photos/jpellgen/35181417016/ | https://live.staticflickr.com/4257/35181417016_59e49bb2b2_b.jpg
