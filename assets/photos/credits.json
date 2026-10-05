@@ -1,0 +1,128 @@
+[
+  {
+    "file": "hero-charleston.jpg",
+    "credit": "Unsplash / Charleston streetscape vibe",
+    "use": "hero",
+    "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1400&q=80&fm=jpg"
+  },
+  {
+    "file": "golf-course-2.jpg",
+    "credit": "Unsplash / golf green",
+    "use": "golf",
+    "url": "https://images.unsplash.com/photo-1587174486073-ae5e5cff23aa?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "coffee-latte.jpg",
+    "credit": "Unsplash / coffee latte art",
+    "use": "coffee",
+    "url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "wine-bar.jpg",
+    "credit": "Unsplash / wine glasses",
+    "use": "wine",
+    "url": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "cypress-swamp.jpg",
+    "credit": "Unsplash / misty water / swamp mood",
+    "use": "nature",
+    "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "pumpkin-patch.jpg",
+    "credit": "Unsplash / pumpkin patch",
+    "use": "nature",
+    "url": "https://images.unsplash.com/photo-1506917728037-b6af01a7d403?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "beach-shells.jpg",
+    "credit": "Unsplash / tropical beach",
+    "use": "beach",
+    "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "angel-oak-vibe.jpg",
+    "credit": "Unsplash / ancient forest canopy",
+    "use": "nature",
+    "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "pier-ocean.jpg",
+    "credit": "Unsplash / pier over ocean",
+    "use": "beach",
+    "url": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "pasta-italian.jpg",
+    "credit": "Unsplash / pasta dish",
+    "use": "dinner",
+    "url": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "dumplings.jpg",
+    "credit": "Unsplash / dumplings",
+    "use": "dinner",
+    "url": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "fried-chicken.jpg",
+    "credit": "Unsplash / fried chicken",
+    "use": "dinner",
+    "url": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "seafood-platter.jpg",
+    "credit": "Unsplash / seafood restaurant",
+    "use": "dinner",
+    "url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "marsh-sunset.jpg",
+    "credit": "Unsplash / beach sunset mood",
+    "use": "dinner",
+    "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "waterfront-park.jpg",
+    "credit": "Unsplash / resort waterfront / park vibe",
+    "use": "free",
+    "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "boardwalk.jpg",
+    "credit": "Unsplash / lake / boardwalk mood",
+    "use": "free",
+    "url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "bridge-dusk.jpg",
+    "credit": "Unsplash / city bridge dusk",
+    "use": "free",
+    "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "night-market.jpg",
+    "credit": "Unsplash / night market stalls",
+    "use": "free",
+    "url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "river-park.jpg",
+    "credit": "Unsplash / calm river water",
+    "use": "free",
+    "url": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "rainbow-row.jpg",
+    "credit": "Unsplash / colorful historic houses",
+    "use": "hero",
+    "url": "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=1200&q=80&fm=jpg"
+  },
+  {
+    "file": "coffee-shop.jpg",
+    "credit": "Unsplash / coffee shop interior",
+    "use": "coffee",
+    "url": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=1200&q=80&fm=jpg"
+  }
+]

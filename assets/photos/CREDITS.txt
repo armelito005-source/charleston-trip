@@ -1,0 +1,15 @@
+Photo credits for charleston-trip planner
+
+Wikimedia Commons (free / public domain / CC as listed on Commons):
+- cypress-gardens.* — Moncks Corner - Cypress Gardens 06.jpg
+- angel-oak.* — Angel Oak Tree, November 2012.jpg
+- folly-pier.* — Folly-beach-pier-south-sc1.jpg
+- rainbow-row-chs.* — Rainbow Row from northern end.jpg
+- pineapple-fountain.* — Charleston-Waterfront-Park-pineapple-fountain-back.jpg
+
+Unsplash License (https://unsplash.com/license):
+- golf-course-2, coffee-latte, wine-bar, pasta-italian, dumplings, fried-chicken,
+  seafood-platter, pumpkin-patch, shark-tooth-beach, boardwalk, bridge-dusk,
+  night-market, river-park, pool-condo, marsh-grass, rooftop-sunset
+
+Do not scrape Airbnb private listing photos. Restaurant food photos here are generic Unsplash mood images, not proprietary menu photos.
