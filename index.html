@@ -5,11 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Charleston with Kim · Oct 15-18, 2026</title>
 <meta name="description" content="A soft Lowcountry trip planner for Armel and Kim: golf, coffee, swamp boats, shark teeth, and sunset dinners.">
-<meta name="theme-color" content="#f6f1e9">
+<meta name="theme-color" content="#f7efe3">
 <meta property="og:title" content="Charleston with Kim · Oct 15-18">
 <meta property="og:description" content="Our long weekend in the Lowcountry - places, plans, and little tips.">
 <meta property="og:type" content="website">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌴</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍁</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -17,6 +17,7 @@
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
+<div class="fall-sky" aria-hidden="true" id="fallSky"></div>
 <header class="hero">
   <div class="hero-media" aria-hidden="true">
     <picture>
@@ -24,13 +25,15 @@
       <img src="assets/photos/chs-rainbow1.jpg" alt="" width="1200" height="1600" fetchpriority="high">
     </picture>
   </div>
+  <div class="hero-deco left" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2c1.2 3.2 1.1 5.6 0 7.4 2.4-1 4.8-.6 7.1.8-1.6 1.7-3.6 2.6-5.8 2.6 2.2.9 3.6 2.6 4.2 5.1-2.6-.2-4.7-1.1-6.1-2.7-.2 2.6-1.3 4.8-3.5 6.8-1.1-2.5-1-5-.1-7.1C5.6 16.3 3.4 16 1 14.8c1.8-1.8 4-2.6 6.4-2.4C5.2 11 4 8.8 3.6 6c2.4.8 4.4 2.2 5.6 4.1C9.5 7.2 10.2 4.6 12 2z"/></svg></div>
+  <div class="hero-deco right" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2c1.2 3.2 1.1 5.6 0 7.4 2.4-1 4.8-.6 7.1.8-1.6 1.7-3.6 2.6-5.8 2.6 2.2.9 3.6 2.6 4.2 5.1-2.6-.2-4.7-1.1-6.1-2.7-.2 2.6-1.3 4.8-3.5 6.8-1.1-2.5-1-5-.1-7.1C5.6 16.3 3.4 16 1 14.8c1.8-1.8 4-2.6 6.4-2.4C5.2 11 4 8.8 3.6 6c2.4.8 4.4 2.2 5.6 4.1C9.5 7.2 10.2 4.6 12 2z"/></svg></div>
   <div class="hero-inner">
-    <p class="eyebrow">Lowcountry · Hanahan base</p>
+    <p class="eyebrow"><span class="leaf-ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2c1.2 3.2 1.1 5.6 0 7.4 2.4-1 4.8-.6 7.1.8-1.6 1.7-3.6 2.6-5.8 2.6 2.2.9 3.6 2.6 4.2 5.1-2.6-.2-4.7-1.1-6.1-2.7-.2 2.6-1.3 4.8-3.5 6.8-1.1-2.5-1-5-.1-7.1C5.6 16.3 3.4 16 1 14.8c1.8-1.8 4-2.6 6.4-2.4C5.2 11 4 8.8 3.6 6c2.4.8 4.4 2.2 5.6 4.1C9.5 7.2 10.2 4.6 12 2z"/></svg></span> Mid-October · Hanahan base</p>
     <p class="greet">Hey Kim (and Armel)</p>
     <h1>Our Charleston long weekend</h1>
-    <p class="hero-note">Four soft days of public golf, swamp boats, coffee and wine, shark teeth on the falling tide, and sunset oysters. Swipe the photos. Save your favorites.</p>
+    <p class="hero-note">Four soft mid-October days: public golf, swamp boats, coffee and wine, shark teeth on the falling tide, and sunset oysters. Swipe the photos. Save your favorites.</p>
     <div class="hero-meta">
-      <span class="pill">Thu Oct 15 - Sun Oct 18, 2026</span>
+      <span class="pill fall">Thu Oct 15 - Sun Oct 18, 2026</span>
       <span class="pill">Hanahan waterfront condo</span>
       <span class="pill">Conf. HMHEHX3HSE</span>
     </div>
@@ -50,6 +53,7 @@
 <main id="main">
 <section id="plan">
   <div class="container">
+    <div class="section-divider" aria-hidden="true"><span></span><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2c1.2 3.2 1.1 5.6 0 7.4 2.4-1 4.8-.6 7.1.8-1.6 1.7-3.6 2.6-5.8 2.6 2.2.9 3.6 2.6 4.2 5.1-2.6-.2-4.7-1.1-6.1-2.7-.2 2.6-1.3 4.8-3.5 6.8-1.1-2.5-1-5-.1-7.1C5.6 16.3 3.4 16 1 14.8c1.8-1.8 4-2.6 6.4-2.4C5.2 11 4 8.8 3.6 6c2.4.8 4.4 2.2 5.6 4.1C9.5 7.2 10.2 4.6 12 2z"/></svg><span></span></div>
     <div class="section-head">
       <h2>Suggested day by day</h2>
       <p>A gentle path through the weekend. Swipe photos on any card. Tap hearts to save favorites.</p>
@@ -104,7 +108,8 @@
     </div>
   </div>
 </section>
-<section id="stay"><div class="container"><div class="section-head"><h2>Stay</h2><p>Home base for the weekend - water views, pool, and a short hop to everything.</p></div><ul class="cards single">      <li class="card" data-id="stay-condo">
+<section id="stay"><div class="container"><div class="section-divider" aria-hidden="true"><span></span><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2c1.2 3.2 1.1 5.6 0 7.4 2.4-1 4.8-.6 7.1.8-1.6 1.7-3.6 2.6-5.8 2.6 2.2.9 3.6 2.6 4.2 5.1-2.6-.2-4.7-1.1-6.1-2.7-.2 2.6-1.3 4.8-3.5 6.8-1.1-2.5-1-5-.1-7.1C5.6 16.3 3.4 16 1 14.8c1.8-1.8 4-2.6 6.4-2.4C5.2 11 4 8.8 3.6 6c2.4.8 4.4 2.2 5.6 4.1C9.5 7.2 10.2 4.6 12 2z"/></svg><span></span></div>
+    <div class="section-head"><h2>Stay</h2><p>Home base for the weekend - water views, pool, and a short hop to everything.</p></div><ul class="cards single">      <li class="card" data-id="stay-condo">
         <div class="card-media">
           <div class="gal" tabindex="0" aria-roledescription="carousel" aria-label="Photos of Waterfront Condo with Pool"><div class="slide loaded"><picture>
             <source srcset="assets/photos/stay1.webp" type="image/webp">
@@ -141,7 +146,8 @@
           <div class="card-actions"><a class="link-out" href="https://maps.google.com/?q=6240+Old+Point+Road+Hanahan+SC+29410" target="_blank" rel="noopener">Open in Maps <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></a></div>
         </div>
       </li></ul></div></section>
-<section id="golf"><div class="container"><div class="section-head"><h2>Golf · both public</h2><p>Friday morning 9 holes. Each player usually needs their own clubs - reserve rentals if Kim isn't bringing a set.</p></div><ul class="cards">      <li class="card" data-id="golf-crowfield">
+<section id="golf"><div class="container"><div class="section-divider" aria-hidden="true"><span></span><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2c1.2 3.2 1.1 5.6 0 7.4 2.4-1 4.8-.6 7.1.8-1.6 1.7-3.6 2.6-5.8 2.6 2.2.9 3.6 2.6 4.2 5.1-2.6-.2-4.7-1.1-6.1-2.7-.2 2.6-1.3 4.8-3.5 6.8-1.1-2.5-1-5-.1-7.1C5.6 16.3 3.4 16 1 14.8c1.8-1.8 4-2.6 6.4-2.4C5.2 11 4 8.8 3.6 6c2.4.8 4.4 2.2 5.6 4.1C9.5 7.2 10.2 4.6 12 2z"/></svg><span></span></div>
+    <div class="section-head"><h2>Golf · both public</h2><p>Friday morning 9 holes. Each player usually needs their own clubs - reserve rentals if Kim isn't bringing a set.</p></div><ul class="cards">      <li class="card" data-id="golf-crowfield">
         <div class="card-media">
           <div class="gal" tabindex="0" aria-roledescription="carousel" aria-label="Photos of Crowfield Golf Club"><div class="slide loaded"><picture>
             <source srcset="assets/photos/golf1.webp" type="image/webp">
@@ -209,7 +215,8 @@
           <div class="card-actions"><a class="link-out" href="https://wescottgolf.com/" target="_blank" rel="noopener">Official site <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></a><a class="link-out" href="https://wescottgolf.com/rates/" target="_blank" rel="noopener">Rates <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></a></div>
         </div>
       </li></ul></div></section>
-<section id="coffee"><div class="container"><div class="section-head"><h2>Coffee &amp; wine</h2><p>Kim's picks - wine lounge, Broad Street mercato, and City Paper's Best Coffee Shop.</p></div><ul class="cards">      <li class="card" data-id="hidden-house">
+<section id="coffee"><div class="container"><div class="section-divider" aria-hidden="true"><span></span><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2c1.2 3.2 1.1 5.6 0 7.4 2.4-1 4.8-.6 7.1.8-1.6 1.7-3.6 2.6-5.8 2.6 2.2.9 3.6 2.6 4.2 5.1-2.6-.2-4.7-1.1-6.1-2.7-.2 2.6-1.3 4.8-3.5 6.8-1.1-2.5-1-5-.1-7.1C5.6 16.3 3.4 16 1 14.8c1.8-1.8 4-2.6 6.4-2.4C5.2 11 4 8.8 3.6 6c2.4.8 4.4 2.2 5.6 4.1C9.5 7.2 10.2 4.6 12 2z"/></svg><span></span></div>
+    <div class="section-head"><h2>Coffee &amp; wine</h2><p>Kim's picks - wine lounge, Broad Street mercato, and City Paper's Best Coffee Shop.</p></div><ul class="cards">      <li class="card" data-id="hidden-house">
         <div class="card-media">
           <div class="gal" tabindex="0" aria-roledescription="carousel" aria-label="Photos of The Hidden House"><div class="slide loaded"><picture>
             <source srcset="assets/photos/wine1.webp" type="image/webp">
@@ -320,7 +327,8 @@
           <div class="card-actions"><a class="link-out" href="https://citylightseastside0542.s4shops.com/" target="_blank" rel="noopener">Order / site <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></a><a class="link-out" href="https://charlestoncitypaper.com/2026/05/14/meet-the-best-of-charleston-2026/" target="_blank" rel="noopener">City Paper Best of <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></a></div>
         </div>
       </li></ul></div></section>
-<section id="nature"><div class="container"><div class="section-head"><h2>Nature &amp; day trips</h2><p>Swamp boats, pumpkins, an ancient oak, shark teeth by boat, and the city's favorite sunset walk.</p></div><ul class="cards">      <li class="card" data-id="cypress">
+<section id="nature"><div class="container"><div class="section-divider" aria-hidden="true"><span></span><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2c1.2 3.2 1.1 5.6 0 7.4 2.4-1 4.8-.6 7.1.8-1.6 1.7-3.6 2.6-5.8 2.6 2.2.9 3.6 2.6 4.2 5.1-2.6-.2-4.7-1.1-6.1-2.7-.2 2.6-1.3 4.8-3.5 6.8-1.1-2.5-1-5-.1-7.1C5.6 16.3 3.4 16 1 14.8c1.8-1.8 4-2.6 6.4-2.4C5.2 11 4 8.8 3.6 6c2.4.8 4.4 2.2 5.6 4.1C9.5 7.2 10.2 4.6 12 2z"/></svg><span></span></div>
+    <div class="section-head"><h2>Nature &amp; day trips</h2><p>Swamp boats, pumpkins, an ancient oak, shark teeth by boat, and the city's favorite sunset walk.</p></div><ul class="cards">      <li class="card" data-id="cypress">
         <div class="card-media">
           <div class="gal" tabindex="0" aria-roledescription="carousel" aria-label="Photos of Cypress Gardens"><div class="slide loaded"><picture>
             <source srcset="assets/photos/chs-cypress1.webp" type="image/webp">
@@ -545,7 +553,8 @@
           <div class="card-actions"><a class="link-out" href="https://maps.google.com/?q=Pitt+Street+Bridge+Park+Mount+Pleasant+SC" target="_blank" rel="noopener">Maps <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></a><a class="link-out" href="https://charlestoncitypaper.com/2026/05/14/meet-the-best-of-charleston-2026/" target="_blank" rel="noopener">City Paper Best of <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></a></div>
         </div>
       </li></ul></div></section>
-<section id="dinner"><div class="container"><div class="section-head"><h2>Dinner</h2><p>Mostly $25-45 per person before drinks. Boathouse runs a little higher. Cane Pazzo wears the gold.</p></div><ul class="cards">      <li class="card" data-id="cane-pazzo">
+<section id="dinner"><div class="container"><div class="section-divider" aria-hidden="true"><span></span><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2c1.2 3.2 1.1 5.6 0 7.4 2.4-1 4.8-.6 7.1.8-1.6 1.7-3.6 2.6-5.8 2.6 2.2.9 3.6 2.6 4.2 5.1-2.6-.2-4.7-1.1-6.1-2.7-.2 2.6-1.3 4.8-3.5 6.8-1.1-2.5-1-5-.1-7.1C5.6 16.3 3.4 16 1 14.8c1.8-1.8 4-2.6 6.4-2.4C5.2 11 4 8.8 3.6 6c2.4.8 4.4 2.2 5.6 4.1C9.5 7.2 10.2 4.6 12 2z"/></svg><span></span></div>
+    <div class="section-head"><h2>Dinner</h2><p>Mostly $25-45 per person before drinks. Boathouse runs a little higher. Cane Pazzo wears the gold.</p></div><ul class="cards">      <li class="card" data-id="cane-pazzo">
         <div class="card-media">
           <div class="gal" tabindex="0" aria-roledescription="carousel" aria-label="Photos of Cane Pazzo"><div class="slide loaded"><picture>
             <source srcset="assets/photos/pasta1.webp" type="image/webp">
@@ -767,7 +776,8 @@
           <div class="card-actions"><a class="link-out" href="https://boathouserestaurants.com/" target="_blank" rel="noopener">Official site <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></a></div>
         </div>
       </li></ul></div></section>
-<section id="free"><div class="container"><div class="section-head"><h2>Free &amp; cheap fun</h2><p>Sunset walks, bridges, and a night market - zero (or almost zero) dollars.</p></div><ul class="cards">      <li class="card" data-id="waterfront">
+<section id="free"><div class="container"><div class="section-divider" aria-hidden="true"><span></span><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2c1.2 3.2 1.1 5.6 0 7.4 2.4-1 4.8-.6 7.1.8-1.6 1.7-3.6 2.6-5.8 2.6 2.2.9 3.6 2.6 4.2 5.1-2.6-.2-4.7-1.1-6.1-2.7-.2 2.6-1.3 4.8-3.5 6.8-1.1-2.5-1-5-.1-7.1C5.6 16.3 3.4 16 1 14.8c1.8-1.8 4-2.6 6.4-2.4C5.2 11 4 8.8 3.6 6c2.4.8 4.4 2.2 5.6 4.1C9.5 7.2 10.2 4.6 12 2z"/></svg><span></span></div>
+    <div class="section-head"><h2>Free &amp; cheap fun</h2><p>Sunset walks, bridges, and a night market - zero (or almost zero) dollars.</p></div><ul class="cards">      <li class="card" data-id="waterfront">
         <div class="card-media">
           <div class="gal" tabindex="0" aria-roledescription="carousel" aria-label="Photos of Waterfront Park"><div class="slide loaded"><picture>
             <source srcset="assets/photos/chs-pineapple1.webp" type="image/webp">
@@ -964,7 +974,7 @@
 </ul></div></div></section>
 </main>
 <footer>
-  <p class="love">Four days. Soft light. You and me.</p>
+  <p class="love">Four October days. Soft light. You and me.</p>
   <p>Love, Armel</p>
   <p class="credits">Photos: Unsplash License and Wikimedia Commons (local copies in assets/photos/). Charleston-specific shots include Cypress Gardens, Angel Oak, Folly Beach, Rainbow Row, and Waterfront Park from Commons. Mood images for food, coffee, golf, and sunsets from Unsplash. Details from trip research Oct 2, 2026. Best of Charleston 2026 awards from Charleston City Paper. Drive times approximate from the Hanahan condo. Swipe or use arrows on any place card.</p>
 </footer>

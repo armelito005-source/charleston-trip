@@ -8,6 +8,7 @@ Phone-first visual trip planner for **Armel & Kim** - Charleston / Lowcountry, T
 
 - Swipeable photo galleries on every place card (arrows, dots, keyboard)
 - Save / heart favorites (localStorage)
+- Mid-October fall atmosphere (amber/rust palette, soft drifting leaves)
 - Sticky category chips
 - Day-by-day plan with Saturday tide note
 - Best of Charleston 2026 highlights (City Paper)
